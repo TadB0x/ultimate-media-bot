@@ -1,0 +1,5 @@
+acrcloud.json
+*.session
+__pycache__/
+*.pyc
+bot.log
